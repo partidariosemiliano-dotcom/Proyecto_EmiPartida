@@ -1,3 +1,3 @@
 # Proyecto_EmiPartida
-# Proyecto_EmiPartida
-MODIFICACION NUMERO 1
+
+Modificacion (Num 1)
